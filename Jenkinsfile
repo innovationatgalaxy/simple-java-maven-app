@@ -12,8 +12,8 @@ pipeline {
         }
         stage('Build') { 
             steps {
-                goals: 'clean install'
+                sh 'clean install'
             }
         }
-	}
+    }
 }
