@@ -2,7 +2,7 @@ pipeline {
     agent any
     tools { 
         maven 'maven' // Tool name from Jenkins "Global Tool Configuration"
-        jdk 'java8' // Tool name from Jenkins "Global Tool Configuration"
+        jdk 'java' // Tool name from Jenkins "Global Tool Configuration"
     }	
     stages {
         stage ('Clone') {
