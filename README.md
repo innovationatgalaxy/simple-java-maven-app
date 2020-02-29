@@ -63,7 +63,15 @@ ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://5
 ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://54.236.118.104:8080/github-webhook/
 2020-02-19 12:21:03.785+0000 [id=14]    INFO    o.j.p.g.w.s.DefaultPushGHEventSubscriber$1#run: Poked mavenjob
 2020-02-19 12:21:08.850+0000 [id=1208]  INFO    c.s.o.i.Platform$JdkWithJettyBootPlatform#getSelectedProtocol: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
-
+ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://54.236.118.104:8080/github-webhook/
+2020-02-19 12:21:03.785+0000 [id=14]    INFO    o.j.p.g.w.s.DefaultPushGHEventSubscriber$1#run: Poked mavenjob
+2020-02-19 12:21:08.850+0000 [id=1208]  INFO    c.s.o.i.Platform$JdkWithJettyBootPlatform#getSelectedProtocol: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://54.236.118.104:8080/github-webhook/
+2020-02-19 12:21:03.785+0000 [id=14]    INFO    o.j.p.g.w.s.DefaultPushGHEventSubscriber$1#run: Poked mavenjob
+2020-02-19 12:21:08.850+0000 [id=1208]  INFO    c.s.o.i.Platform$JdkWithJettyBootPlatform#getSelectedProtocol: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://54.236.118.104:8080/github-webhook/
+2020-02-19 12:21:03.785+0000 [id=14]    INFO    o.j.p.g.w.s.DefaultPushGHEventSubscriber$1#run: Poked mavenjob
+2020-02-19 12:21:08.850+0000 [id=1208]  INFO    c.s.o.i.Platform$JdkWithJettyBootPlatform#getSelectedProtocol: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://54.236.118.104:8080/github-webhook/
+2020-02-19 12:21:03.785+0000 [id=14]    INFO    o.j.p.g.w.s.DefaultPushGHEventSubscriber$1#run: Poked mavenjob
+2020-02-19 12:21:08.850+0000 [id=1208]  INFO    c.s.o.i.Platform$JdkWithJettyBootPlatform#getSelectedProtocol: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
 
 ub.com/innovationatgalaxy/simple-java-maven-app from 140.82.115.245 ⇒ http://54.236.118.104:8080/github-webhook/
 2020-02-19 12:21:03.785+0000 [id=14]    INFO    o.j.p.g.w.s.DefaultPushGHEventSubscriber$1#run: Poked mavenjob
