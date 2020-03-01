@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage ('Clone') {
             steps {
-                git branch: 'master', url: "https://github.com/Mahes-P/simple-java-maven-app.git"
+                git branch: 'master', url: "https://github.com/innovationatgalaxy/simple-java-maven-app.git"
             }
         }
         stage('Build') { 
